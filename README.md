@@ -32,8 +32,6 @@
   </a>
 </div>
 
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raphael707/raphael707/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raphael707/raphael707/output/pacman-contribution-graph.svg">
