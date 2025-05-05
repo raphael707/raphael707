@@ -5,7 +5,6 @@
 
 ##### Skills
 ![My Skills](https://skillicons.dev/icons?i=python,html,css,js,mysql)
-
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 " /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
@@ -29,13 +28,5 @@
   </a>
   <a href="https://stackoverflow.com/users/28000364/ricky" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Ricky">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Ricky&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
