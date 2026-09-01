@@ -1,42 +1,66 @@
-## Hello World! I'm Ricky Agung Permana 👋
-![Git Hub banner](img/github-header-image%20.png)
+# 📸💻 Ricky Agung Permana
+**`FullStack Enthusiast | Photography Enthusiast | Lifelong Learner`**
 
-👨‍🎓 I'm a **Student** from **Indonesia**, I'm currently Study at **Cipta Karya Informatika College of Computer Science**
+## About Me
+I'm an Undergraduate Information Systems student at St. Ilmu Komputer Cipta Karya Informatika. Passionate about building modern web applications, and capturing aesthetic visuals.
 
-##### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,mysql)](https://skillicons.dev)
+## Skill Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,nodejs,gcp,git,github,figma&theme=dark)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+**Also comfortable with**: RESTful APIs, UI/UX Wireframing & Prototyping, Heuristic Evaluation, Cloud Deployment (GCP).
 
-##### Connect With Me
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/__gungs__/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/826668143501377567" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=rickyagung010@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ricky-agung-permana-416353362/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/RickyAgung404" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/28000364/ricky" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
-</div>
+## Projects Showcase
 
-###
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/raphael707/FaceFit-Barber-Application">
+        <img src="https://res.cloudinary.com/dkcpexm6t/image/upload/v1788239189/FaceFit_bohlpl.png"
+             alt="FaceFit Barber Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>FaceFit Barber</b><br/>
+      <sub>AI based web app recommending personalized hairstyles based on facial geometry.</sub><br/>
+      🔗 <a href="https://github.com/raphael707/FaceFit-Barber-Application">Repo</a>
+      <br/>
+      <sub>Tags:React, Tailwind CSS, Python, AI</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/rickyagungpermana/ux-app-analysis">
+        <img src="https://via.placeholder.com/400x200?text=UI/UX+Comparative+Analysis"
+             alt="UX Analysis Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      </a>
+      <br/>
+      <b>📊 Ride-Hailing UX Analysis</b><br/>
+      <sub>Comparative heuristic evaluation analyzing user flows and layout interaction.</sub><br/>
+      🔗 <a href="https://github.com/rickyagungpermana/ux-app-analysis">Repo</a>
+      <br/>
+      <sub>Tags: UI/UX, Figma, User Research</sub>
+    </td>
+  </tr>
+</table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raphael707/raphael707/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raphael707/raphael707/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raphael707/raphael707/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+## 📊 GitHub Stats
+![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickyagungpermana&show_icons=true&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rickyagungpermana&layout=compact&theme=gruvbox)
+
+---
+
+## Connect
+- 📧 **Email**: `rickyagungpermana010@gmail.com`
+- 💼 **LinkedIn**: [Ricky Agung Permana](https://www.linkedin.com/in/ricky-agung-permana-416353362/)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/ricky-agung-permana-416353362/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+<a href="https:https://www.instagram.com/__gungs__/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+</a>
