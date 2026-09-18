@@ -46,9 +46,10 @@ I'm an Undergraduate Information Systems student at St. Ilmu Komputer Cipta Kary
 
 ---
 
-## 📊 GitHub Stats
-![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickyagungpermana&show_icons=true&theme=gruvbox)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rickyagungpermana&layout=compact&theme=gruvbox)
+## GitHub Stats
+![Ricky's GitHub stats](https://github.com/raphael707/ACCESS_TOKEN/blob/generated/overview.svg#gh-dark-mode-only)
+![Languages Used](https://github.com/raphael707/ACCESS_TOKEN/blob/generated/languages.svg#gh-dark-mode-only)
+
 
 ---
 
