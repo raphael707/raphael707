@@ -1,8 +1,7 @@
 # 📸💻 Ricky Agung Permana
 **`FullStack Enthusiast | Photography Enthusiast | Lifelong Learner`**
 
-## About Me
-I'm an Undergraduate Information Systems student at St. Ilmu Komputer Cipta Karya Informatika. Passionate about building modern web applications and capturing aesthetic visuals.
+I'm an undergraduate Information Systems student with a strong curiosity for JavaScript and modern web technologies.
 
 ## Skill Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,nodejs,gcp,git,github,figma&theme=dark)](https://skillicons.dev)
