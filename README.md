@@ -2,7 +2,7 @@
 **`FullStack Enthusiast | Photography Enthusiast | Lifelong Learner`**
 
 ## About Me
-I'm an Undergraduate Information Systems student at St. Ilmu Komputer Cipta Karya Informatika. Passionate about building modern web applications, and capturing aesthetic visuals.
+I'm an Undergraduate Information Systems student at St. Ilmu Komputer Cipta Karya Informatika. Passionate about building modern web applications and capturing aesthetic visuals.
 
 ## Skill Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vite,tailwind,nodejs,gcp,git,github,figma&theme=dark)](https://skillicons.dev)
@@ -19,27 +19,27 @@ I'm an Undergraduate Information Systems student at St. Ilmu Komputer Cipta Kary
       <a href="https://github.com/raphael707/FaceFit-Barber-Application">
         <img src="https://res.cloudinary.com/dkcpexm6t/image/upload/v1788239189/FaceFit_bohlpl.png"
              alt="FaceFit Barber Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+             style="width:100%; height:250px; object-fit:cover;"/>
       </a>
       <br/>
       <b>FaceFit Barber</b><br/>
-      <sub>AI based web app recommending personalized hairstyles based on facial geometry.</sub><br/>
+      <sub>AI-based web app recommending personalised hairstyles based on facial geometry.</sub><br/>
       🔗 <a href="https://github.com/raphael707/FaceFit-Barber-Application">Repo</a>
       <br/>
-      <sub>Tags:React, Tailwind CSS, Python, AI</sub>
+      <sub>Tags: React, Tailwind CSS, Python, AI</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/rickyagungpermana/ux-app-analysis">
-        <img src="https://via.placeholder.com/400x200?text=UI/UX+Comparative+Analysis"
-             alt="UX Analysis Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
+      <a href="https://github.com/UKM-IT-CKI/web-ukmitcki-v1">
+        <img src="https://ik.imagekit.io/zslmxl4gx/UKM%20SS.png"
+             alt="Landing Page UKM IT"
+             style="width:100%; height:250px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>📊 Ride-Hailing UX Analysis</b><br/>
-      <sub>Comparative heuristic evaluation analyzing user flows and layout interaction.</sub><br/>
-      🔗 <a href="https://github.com/rickyagungpermana/ux-app-analysis">Repo</a>
+      <b>UKM IT Landing Page</b><br/>
+      <sub>Landing Page for my organisation at the university, mainly used for intro and join form.</sub><br/>
+      🔗 <a href="https://github.com/UKM-IT-CKI/web-ukmitcki-v1"">Repo</a>
       <br/>
-      <sub>Tags: UI/UX, Figma, User Research</sub>
+      <sub>Tags: React, Tailwind CSS, Google Sheet,</sub>
     </td>
   </tr>
 </table>
