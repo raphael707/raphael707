@@ -23,10 +23,10 @@ I'm an Undergraduate Information Systems student at St. Ilmu Komputer Cipta Kary
       </a>
       <br/>
       <b>FaceFit Barber</b><br/>
-      <sub> Real-time AI haircut recommendation engine leveraging computer vision to analyse face shapes. (Coding Camp 2026 Capstone)</sub><br/>
+      <sub>Real-time AI haircut recommendation engine leveraging computer vision to analyse face shapes. (Coding Camp 2026 Capstone)</sub><br/>
       🔗 <a href="https://github.com/raphael707/FaceFit-Barber-Application">Repo</a>
       <br/>
-      <sub>Tags: React, Tailwind CSS, Python, AI</sub>
+      <sub>Tags: ReactJS, ExpressJS, Tailwind CSS, Python, AI</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/UKM-IT-CKI/web-ukmitcki-v1">
@@ -37,9 +37,9 @@ I'm an Undergraduate Information Systems student at St. Ilmu Komputer Cipta Kary
       <br/>
       <b>UKM IT Landing Page</b><br/>
       <sub>Official landing page for the university's IT student organisation, featuring an organisational overview and recruitment application form.</sub><br/>
-      🔗 <a href="https://github.com/UKM-IT-CKI/web-ukmitcki-v1"">Repo</a>
+      🔗 <a href="https://github.com/UKM-IT-CKI/web-ukmitcki-v1">Repo</a>
       <br/>
-      <sub>Tags: React, Tailwind CSS, Google Sheet,</sub>
+      <sub>Tags: ReactJS, Tailwind CSS, Google Sheet</sub>
     </td>
   </tr>
 </table>
