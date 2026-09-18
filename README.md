@@ -46,10 +46,12 @@ I'm an Undergraduate Information Systems student at St. Ilmu Komputer Cipta Kary
 
 ---
 
-## GitHub Stats
-![Ricky's GitHub stats](https://github.com/raphael707/ACCESS_TOKEN/blob/generated/overview.svg#gh-dark-mode-only)
-![Languages Used](https://github.com/raphael707/ACCESS_TOKEN/blob/generated/languages.svg#gh-dark-mode-only)
+<details>
+<summary><h3>🚀 Ricky's Coding Journey</h3></summary>
 
+My coding journey began when I stepped into the Information Systems program at St. Ilmu Komputer Cipta Karya Informatika. Driven by curiosity right from my freshman year, I tried everything I could get my hands on and immediately plunged into the core building blocks of web development. As I learned by building projects, my focus naturally shifted toward frontend architecture. I began working heavily with modern ecosystems like ReactJS and Tailwind CSS to design clean, responsive, and user-centric web applications. To round out my skill set as a full-stack builder, I expanded into backend development using Node.js and ExpressJS. I focused on understanding complete web systems, from designing RESTful APIs and integrating databases like MongoDB and MySQL to deploying services on Google Cloud Platform. By 2026, eager to learn more and embrace new challenges, I applied to and joined the Coding Camp 2026 by Dicoding & DBS Foundation. There, I notably developed FaceFit Barber, a real-time AI haircut recommendation engine leveraging computer vision. Beyond code, I also enjoy capturing aesthetic visual stories through photography. For me, software development isn't just about writing syntax it's a continuous process of building solutions, refining craft, and staying a lifelong learner.
+
+</details>
 
 ---
 
